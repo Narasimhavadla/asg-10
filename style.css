@@ -1,0 +1,27 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css");
+
+.footer{
+    width: 100%;
+    height: 220px;
+    background-color: rgb(82, 79, 79);
+    position: sticky;
+    bottom: 0;
+    /* align-items: center; */
+    text-align: center;
+    padding: 50px;
+}
+.footer>h1{
+    color: whitesmoke;
+}
+.footer>p{
+    color: gray;
+}
+.bi{
+    width: 250px;
+    padding: 15px;
+    font-size: 40px;
+    color: wheat;
+    justify-content: space-around;
+
+    
+}
